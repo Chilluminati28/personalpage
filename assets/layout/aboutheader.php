@@ -46,7 +46,7 @@
                                 <h2 class="text-primary fw-bolder mb-0">Experience</h2>
                                 <!-- Download resume button-->
                                 <!-- Note: Set the link href target to a PDF file within your project-->
-                                <a class="btn btn-primary px-4 py-3" href="#!">
+                                <a class="btn btn-primary px-4 py-3" href="https://1drv.ms/i/c/1869d25f7a63429b/Ebmjpn847IBBqUNsifFKIogBA_9981c355TzhAYy_VFfCg?e=cx3SQ4">
                                     <div class="d-inline-block bi bi-download me-2"></div>
                                     Download Resume
                                 </a>
